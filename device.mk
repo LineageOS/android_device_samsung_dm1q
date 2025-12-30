@@ -26,6 +26,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    ApertureResDm1q \
     FrameworksResDm1q \
     LineageResDm1q \
     SystemUIResDm1q \
