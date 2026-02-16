@@ -210,6 +210,8 @@
       "Name": "GPUMaxFreq",
       "Path": "/sys/class/kgsl/kgsl-3d0/devfreq/max_freq",
       "Values": [
+        "999999999",
+        "719000000",
         "680000000",
         "615000000",
         "550000000"
@@ -223,7 +225,8 @@
       "Values": [
         "550000000",
         "401000000",
-        "220000000"
+        "220000000",
+        "124800000"
       ],
       "ResetOnInit": true
     },
@@ -687,6 +690,12 @@
       "Node": "CPUBigPlusClusterMaxFreq",
       "Duration": 0,
       "Value": "1708800"
+    },
+    {
+      "PowerHint": "Flipendo",
+      "Node": "GPUMaxFreq",
+      "Duration": 0,
+      "Value": "550000000"
     }
   ]
 }
