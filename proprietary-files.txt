@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from S911BXXS8DYG5
+# All unpinned blobs are extracted from S911BXXS8EZA1
 # Blobs for SM-S9110 are extracted from S9110ZHS6DYG5
 
 # ACDB
@@ -328,7 +328,8 @@ vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|d3dd54d675ca2b31545e281c4
 vendor/lib64/libqc2audio_hwaudiocodec.so
 
 # NFC
-vendor/etc/nfc/libnfc-nxp_RF.conf
+vendor/etc/nfc/libnfc-nxp_RF.conf:vendor/libnfc-nxp_RF.conf
+
 
 
 # RIL
