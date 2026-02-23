@@ -1,5 +1,4 @@
 # All unpinned blobs are extracted from S911BXXS8DYG5
-# Common pinned blobs are extracted from S911BXXS8DYF2
 # Blobs for SM-S9110 are extracted from S9110ZHS6DYG5
 
 # ACDB
@@ -331,11 +330,10 @@ vendor/lib64/libqc2audio_hwaudiocodec.so
 # NFC
 vendor/etc/nfc/libnfc-nxp_RF.conf
 
-# RIL - from S911BXXS8DYF2
-vendor/etc/init/init.vendor.onebinary.rc|b3fab964774039b1f2f6eabf821556919b26369f
 
 # RIL
 vendor/bin/qms
+vendor/etc/init/init.vendor.onebinary.rc
 vendor/etc/init/init.vendor.rilcommon.rc
 vendor/etc/init/vendor.samsung.rilchip.qcom.rc
 vendor/etc/init/vendor.samsung.rild.rc
