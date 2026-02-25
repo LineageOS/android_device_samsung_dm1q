@@ -7,5 +7,5 @@
           package="org.lineageos.aperture.overlay.dm1q">
     <overlay android:targetPackage="org.lineageos.aperture"
              android:isStatic="true"
-             android:priority="100" />
+             android:priority="600" />
 </manifest>

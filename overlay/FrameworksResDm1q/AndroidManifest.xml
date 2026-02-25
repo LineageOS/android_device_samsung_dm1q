@@ -7,5 +7,5 @@
           package="android.overlay.dm1q">
     <overlay android:targetPackage="android"
              android:isStatic="true"
-             android:priority="700" />
+             android:priority="600" />
 </manifest>

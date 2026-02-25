@@ -7,5 +7,5 @@
           package="org.lineageos.flipflap.overlay.dm1q">
     <overlay android:targetPackage="org.lineageos.flipflap"
              android:isStatic="true"
-             android:priority="700" />
+             android:priority="600" />
 </manifest>

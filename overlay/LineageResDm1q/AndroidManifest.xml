@@ -7,5 +7,5 @@
           package="lineageos.platform.overlay.dm1q">
     <overlay android:targetPackage="lineageos.platform"
              android:isStatic="true"
-             android:priority="700" />
+             android:priority="600" />
 </manifest>
