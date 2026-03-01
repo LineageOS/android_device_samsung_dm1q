@@ -204,7 +204,6 @@ fingerprint.ko
 fingerprint_sysfs.ko
 qbt2000_spidev.ko
 cl_dsp.ko
-input_booster_lkm.ko
 pca9481_charger.ko
 input-cs40l26-i2c.ko
 hall_ic.ko
