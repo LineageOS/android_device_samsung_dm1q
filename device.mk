@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     FlipFlapResDm1q \
     FrameworksResDm1q \
     LineageResDm1q \
+    SettingsProviderResDm1q \
     SystemUIResDm1q \
     WifiResTargetDm1q
 
