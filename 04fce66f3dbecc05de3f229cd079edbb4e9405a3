@@ -16,6 +16,41 @@
       "message": "https://github.com/LineageOS/android_device_samsung_dm1q/blob/lineage-23.2/overlay/FrameworksResDm1q/res/values/config.xml\n\nline 32\n\ngithab warning:\nThis file contains bidirectional or hidden Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters. Learn more about bidirectional Unicode characters\n\nI\u0027m sorry for the offtopic, but I wanted to know if that\u0027s exactly what you were planning?",
       "revId": "04fce66f3dbecc05de3f229cd079edbb4e9405a3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "325088e8_7c192035",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2026-04-01T20:35:52Z",
+      "side": 1,
+      "message": "ignore it, just github being odd",
+      "parentUuid": "e9ebf003_9276d997",
+      "revId": "04fce66f3dbecc05de3f229cd079edbb4e9405a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "86c04abd_42f412de",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2026-04-01T20:35:52Z",
+      "side": 1,
+      "message": "ignore it",
+      "revId": "04fce66f3dbecc05de3f229cd079edbb4e9405a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
