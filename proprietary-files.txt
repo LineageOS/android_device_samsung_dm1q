@@ -330,12 +330,12 @@ vendor/lib64/libqc2audio_hwaudiocodec.so
 # NFC
 vendor/etc/nfc/libnfc-nxp_RF.conf:vendor/libnfc-nxp_RF.conf
 
-# RIL
-vendor/bin/qms
-vendor/etc/init/init.vendor.onebinary.rc
-vendor/etc/init/init.vendor.rilcommon.rc
-vendor/etc/init/vendor.samsung.rilchip.qcom.rc
-vendor/etc/init/vendor.samsung.rild.rc
+# RIL - from dm1qxxx-user 15 AP3A.240905.015.A2 S911BXXS8DYG5 release-keys
+vendor/bin/qms|973813023511d3c65808f2e3b012d7291d229f9c
+vendor/etc/init/init.vendor.onebinary.rc|b3fab964774039b1f2f6eabf821556919b26369f
+vendor/etc/init/init.vendor.rilcommon.rc|5b86e50d77fb8b83ef0c22afe2d06e0fac5dd626
+vendor/etc/init/vendor.samsung.rilchip.qcom.rc|d02a6cec38528f577a8c13e902e426470c84458e
+vendor/etc/init/vendor.samsung.rild.rc|a4cc7e6d99aa026b4dc438d73b260d4143ae26b6
 
 # Sensors config
 vendor/etc/sensors/config/sns_gyro_cal.json
