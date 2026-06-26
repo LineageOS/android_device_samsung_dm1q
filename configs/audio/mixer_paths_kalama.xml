@@ -537,17 +537,17 @@
     <!-- Recording Scenario  -->
     <path name="handset-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
     </path>
 
     <path name="handset-mic-unprocessed">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
     </path>
 
     <path name="speaker-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC1 Volume" value="102" />
     </path>
 
     <path name="bt-sco-mic">
@@ -585,15 +585,15 @@
 
     <path name="unprocessed-stereo-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
     </path>
 
     <path name="unprocessed-three-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="unprocessed-quad-mic">
@@ -607,40 +607,40 @@
 
     <path name="unprocessed-hdr-mic-landscape">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="unprocessed-hdr-mic-inverted-landscape">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="unprocessed-hdr-mic-portrait">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="unprocessed-hdr-mic-inverted-portrait">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="rec-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
     </path>
 
     <path name="rec-sub-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC1 Volume" value="102" />
     </path>
 
     <path name="rec-headset-mic">
@@ -649,8 +649,8 @@
 
     <path name="rec-stereo-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
     </path>
 
     <path name="rec-usb-headset-mic">
@@ -658,54 +658,54 @@
 
     <path name="rec-interview-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="97" />
-        <ctl name="TX_DEC1 Volume" value="97" />
+        <ctl name="TX_DEC0 Volume" value="115" />
+        <ctl name="TX_DEC1 Volume" value="115" />
     </path>
 
     <path name="camcorder-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
     </path>
 
     <path name="camcorder-sub-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC1 Volume" value="102" />
     </path>
 
     <path name="camcorder-multi-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="camcorder-multi-and-bt-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
-        <ctl name="TX_DEC2 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="102" />
     </path>
 
     <path name="echo-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="99" />
+        <ctl name="TX_DEC0 Volume" value="117" />
     </path>
 
     <path name="echo-sub-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="90" />
+        <ctl name="TX_DEC1 Volume" value="108" />
     </path>
 
     <path name="echo-3rd-mic">
         <path name="3rd-mic" />
-        <ctl name="TX_DEC2 Volume" value="102" />
+        <ctl name="TX_DEC2 Volume" value="120" />
     </path>
 
     <path name="echo-multi-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="107" />
-        <ctl name="TX_DEC1 Volume" value="112" />
-        <ctl name="TX_DEC2 Volume" value="114" />
+        <ctl name="TX_DEC0 Volume" value="123" />
+        <ctl name="TX_DEC1 Volume" value="123" />
+        <ctl name="TX_DEC2 Volume" value="123" />
     </path>
     <!-- end of Recording Scenario -->
 
@@ -766,12 +766,12 @@
     <!-- recognition Scenario -->
     <path name="vr-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="111" />
+        <ctl name="TX_DEC0 Volume" value="123" />
     </path>
 
     <path name="vr-sub-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="113" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="vr-headset-mic">
@@ -780,8 +780,8 @@
 
     <path name="vr-dual-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="111" />
-        <ctl name="TX_DEC1 Volume" value="111" />    
+        <ctl name="TX_DEC0 Volume" value="123" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="vr-usb-headset-mic">
@@ -790,24 +790,24 @@
     <path name="vr-lowpower-main-mic">
         <ctl name="DMIC_RATE OVERRIDE" value="CLK_0P6MHZ"/>
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="118" />
     </path>
 
     <path name="vr-lowpower-dual-mic">
         <ctl name="DMIC_RATE OVERRIDE" value="CLK_0P6MHZ"/>
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="107" />
-        <ctl name="TX_DEC1 Volume" value="107" />
+        <ctl name="TX_DEC0 Volume" value="123" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="voice-perf-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="96" />
+        <ctl name="TX_DEC0 Volume" value="114" />
     </path>
 
     <path name="voice-perf-sub-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="96" />
+        <ctl name="TX_DEC1 Volume" value="114" />
     </path>
 
     <path name="voice-perf-headset-mic">
@@ -816,8 +816,8 @@
 
     <path name="voice-perf-dual-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="96" />
-        <ctl name="TX_DEC1 Volume" value="96" />
+        <ctl name="TX_DEC0 Volume" value="114" />
+        <ctl name="TX_DEC1 Volume" value="114" />
     </path>
 
     <path name="voice-perf-usb-headset-mic">
@@ -825,14 +825,14 @@
 
     <path name="bargein-tts-speaker-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="110" />
-        <ctl name="TX_DEC1 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="123" />
+        <ctl name="TX_DEC1 Volume" value="118" />
     </path>
 
     <path name="bargein-tts-headphones-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="110" />
-        <ctl name="TX_DEC1 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="123" />
+        <ctl name="TX_DEC1 Volume" value="118" />
     </path>
 
     <path name="bargein-tts-headset-mic">
@@ -844,14 +844,14 @@
 
     <path name="bargein-aec-speaker-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="100" />
-        <ctl name="TX_DEC1 Volume" value="101" />
+        <ctl name="TX_DEC0 Volume" value="118" />
+        <ctl name="TX_DEC1 Volume" value="119" />
     </path>
 
     <path name="bargein-aec-headphones-mic">
         <path name="sub-main-mic" />
-        <ctl name="TX_DEC0 Volume" value="93" />
-        <ctl name="TX_DEC1 Volume" value="83" />
+        <ctl name="TX_DEC0 Volume" value="111" />
+        <ctl name="TX_DEC1 Volume" value="101" />
     </path>
 
     <path name="bargein-aec-headset-mic">
@@ -863,30 +863,30 @@
 
     <path name="interpreter-listen-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="100" />
-        <ctl name="TX_DEC1 Volume" value="100" />
-        <ctl name="TX_DEC2 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="118" />
+        <ctl name="TX_DEC1 Volume" value="118" />
+        <ctl name="TX_DEC2 Volume" value="118" />
     </path>
 
     <path name="interpreter-listen-usb-headset-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="100" />
-        <ctl name="TX_DEC1 Volume" value="100" />
-        <ctl name="TX_DEC2 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="118" />
+        <ctl name="TX_DEC1 Volume" value="118" />
+        <ctl name="TX_DEC2 Volume" value="118" />
     </path>
 
     <path name="interpreter-listen-bt-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="100" />
-        <ctl name="TX_DEC1 Volume" value="100" />
-        <ctl name="TX_DEC2 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="118" />
+        <ctl name="TX_DEC1 Volume" value="118" />
+        <ctl name="TX_DEC2 Volume" value="118" />
     </path>
 
     <path name="interpreter-conv-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="100" />
-        <ctl name="TX_DEC1 Volume" value="100" />
-        <ctl name="TX_DEC2 Volume" value="100" />
+        <ctl name="TX_DEC0 Volume" value="118" />
+        <ctl name="TX_DEC1 Volume" value="118" />
+        <ctl name="TX_DEC2 Volume" value="118" />
     </path>
 
     <path name="interpreter-conv-usb-headset-mic">
@@ -894,27 +894,27 @@
 
     <path name="headset-aas-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="109" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="usb-aas-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="109" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="bt-aas-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="109" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="karaoke-sub-mic"> 
         <path name="sub-mic" /> 
-        <ctl name="TX_DEC1 Volume" value="100" /> 
+        <ctl name="TX_DEC1 Volume" value="118" /> 
     </path>
 
     <path name="listenback-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
     </path>
 
     <path name="listenback-headset-mic">
@@ -970,28 +970,28 @@
     <!-- TX part -->
     <path name="hearing-aid-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="96" />
-        <ctl name="TX_DEC1 Volume" value="96" />
-        <ctl name="TX_DEC2 Volume" value="96" />
+        <ctl name="TX_DEC0 Volume" value="114" />
+        <ctl name="TX_DEC1 Volume" value="114" />
+        <ctl name="TX_DEC2 Volume" value="114" />
     </path>
     
     <path name="call-handset-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
-        <ctl name="TX_DEC1 Volume" value="94" />
-        <ctl name="TX_DEC2 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
+        <ctl name="TX_DEC1 Volume" value="112" />
+        <ctl name="TX_DEC2 Volume" value="112" />
     </path>
 
     <path name="call-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
 
     <path name="call-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="call-headset-mic">
@@ -1000,12 +1000,12 @@
 
     <path name="call-usb-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="call-dex-speaker-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="90" />
+        <ctl name="TX_DEC1 Volume" value="108" />
     </path>
 
     <path name="call-usb-headset-mic">
@@ -1025,9 +1025,9 @@
     <!-- TX part -->
     <path name="video-call-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
     <!-- end of video call Scenario  -->
 
@@ -1077,26 +1077,26 @@
     <!-- TX part -->
     <path name="wifi-call-handset-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
-        <ctl name="TX_DEC1 Volume" value="94" />
-        <ctl name="TX_DEC2 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
+        <ctl name="TX_DEC1 Volume" value="112" />
+        <ctl name="TX_DEC2 Volume" value="112" />
     </path>
 
     <path name="wifi-call-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
 
     <path name="wifi-call-dex-speaker-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="90" />
+        <ctl name="TX_DEC1 Volume" value="108" />
     </path>
 
     <path name="wifi-call-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="wifi-call-headset-mic">
@@ -1105,7 +1105,7 @@
 
     <path name="wifi-call-usb-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="wifi-call-usb-headset-mic">
@@ -1155,7 +1155,7 @@
     <!-- TX part -->
     <path name="call-tty-vco-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="call-tty-headset-mic">
@@ -1191,7 +1191,7 @@
     <!-- TX part -->
     <path name="wifi-call-tty-vco-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="wifi-call-tty-headset-mic">
@@ -1271,26 +1271,26 @@
     <!-- TX part -->
     <path name="voip-comm-handset-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
-        <ctl name="TX_DEC1 Volume" value="94" />
-        <ctl name="TX_DEC2 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
+        <ctl name="TX_DEC1 Volume" value="112" />
+        <ctl name="TX_DEC2 Volume" value="112" />
     </path>
 
     <path name="voip-comm-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
 
     <path name="voip-comm-dex-speaker-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="90" />
+        <ctl name="TX_DEC1 Volume" value="108" />
     </path>
 
     <path name="voip-comm-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="voip-comm-headset-mic">
@@ -1299,7 +1299,7 @@
 
     <path name="voip-comm-usb-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="94" />
+        <ctl name="TX_DEC0 Volume" value="112" />
     </path>
 
     <path name="voip-comm-usb-headset-mic">
@@ -1307,23 +1307,23 @@
 
     <path name="voip-comm-tv-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
 
     <path name="voip-smonitor-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
 
     <path name="voip-gaming-speaker-mic">
         <path name="multi-mic" />
-        <ctl name="TX_DEC0 Volume" value="90" />
-        <ctl name="TX_DEC1 Volume" value="90" />
-        <ctl name="TX_DEC2 Volume" value="90" />
+        <ctl name="TX_DEC0 Volume" value="108" />
+        <ctl name="TX_DEC1 Volume" value="108" />
+        <ctl name="TX_DEC2 Volume" value="108" />
     </path>
     <!-- end of VoIP Scenario -->
 
@@ -1380,28 +1380,28 @@
     <!-- TX part -->
     <path name="loopback-main-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="105" />
+        <ctl name="TX_DEC0 Volume" value="123" />
     </path>
 
     <path name="loopback-dual-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="105" />
-        <ctl name="TX_DEC1 Volume" value="105" />
+        <ctl name="TX_DEC0 Volume" value="123" />
+        <ctl name="TX_DEC1 Volume" value="123" />
     </path>
 
     <path name="loopback-sub-mic">
         <path name="sub-mic" />
-        <ctl name="TX_DEC1 Volume" value="80" />
+        <ctl name="TX_DEC1 Volume" value="98" />
     </path>
 
     <path name="loopback-3rd-mic">
         <path name="3rd-mic" />
-        <ctl name="TX_DEC2 Volume" value="80" />
+        <ctl name="TX_DEC2 Volume" value="98" />
     </path>
 
     <path name="loopback-headphone-mic">
         <path name="main-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
     </path>
 
     <path name="loopback-headset-mic">
@@ -1413,8 +1413,8 @@
 
     <path name="loopback-incallmusic-mic">
         <path name="main-sub-mic" />
-        <ctl name="TX_DEC0 Volume" value="84" />
-        <ctl name="TX_DEC1 Volume" value="84" />
+        <ctl name="TX_DEC0 Volume" value="102" />
+        <ctl name="TX_DEC1 Volume" value="102" />
     </path>
     <!-- end of Factory Scenario -->
 
