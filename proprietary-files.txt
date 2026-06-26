@@ -2,19 +2,14 @@
 # All pinned blobs are extracted from S9110ZCS6EZA1
 
 # ACDB
-vendor/etc/audconf/OPEN/acdb_cal.acdb
-vendor/etc/audconf/OPEN/workspaceFileXml.qwsp
+vendor/etc/audconf/OPEN/acdb_cal.acdb:vendor/etc/acdbdata/kalama_mtp/acdb_cal.acdb
+vendor/etc/audconf/OPEN/workspaceFileXml.qwsp:vendor/etc/acdbdata/kalama_mtp/workspaceFileXml.qwsp
 
 # Audio
-vendor/lib64/hw/audio.primary.kalama.so
 vendor/lib64/lib_lvacfs.so
-vendor/lib64/libagm.so
-vendor/lib64/libar-pal.so
 vendor/lib64/librecordalive.so
 
 # Audio configs
-vendor/etc/audio/sku_kalama/mixer_paths.xml
-vendor/etc/audio/sku_kalama/resourcemanager.xml
 vendor/etc/audio_effects_haptic.xml
 vendor/etc/dolby/dax-default.xml
 vendor/etc/situation_audio_policy_volumes_sec.xml
