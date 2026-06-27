@@ -382,8 +382,8 @@
 
     <path name="handset">
         <path name="rcv" />
-        <ctl name="Left Amp Gain" value="2" />
-        <ctl name="Left Digital PCM Volume" value="761" />
+        <ctl name="Left Amp Gain" value="8" />
+        <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
     <path name="speaker-mono-left">
@@ -928,7 +928,7 @@
     <!-- RX part -->
     <path name="call-handset">
         <path name="rcv" />
-        <ctl name="Left Amp Gain" value="0" />
+        <ctl name="Left Amp Gain" value="8" />
         <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
@@ -1035,7 +1035,7 @@
     <!-- RX part -->
     <path name="wifi-call-handset">
         <path name="rcv" />
-        <ctl name="Left Amp Gain" value="0" />
+        <ctl name="Left Amp Gain" value="8" />
         <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
@@ -1141,7 +1141,7 @@
     <!-- RX part -->
     <path name="call-tty-handset">
         <path name="rcv" />
-        <ctl name="Left Amp Gain" value="3" />
+        <ctl name="Left Amp Gain" value="8" />
         <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
@@ -1177,7 +1177,7 @@
     <!-- RX part -->
     <path name="wifi-call-tty-handset">
         <path name="rcv" />
-        <ctl name="Left Amp Gain" value="3" />
+        <ctl name="Left Amp Gain" value="8" />
         <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
@@ -1213,7 +1213,7 @@
     <!-- RX part -->
     <path name="voip-comm-handset">
         <path name="rcv" />
-        <ctl name="Left Amp Gain" value="3" />
+        <ctl name="Left Amp Gain" value="8" />
         <ctl name="Left Digital PCM Volume" value="817" />
     </path>
 
