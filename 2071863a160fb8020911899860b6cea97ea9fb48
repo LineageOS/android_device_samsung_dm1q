@@ -16,6 +16,24 @@
       "message": "So... any other device using the impl you added to the QCOM audio HAL repo?",
       "revId": "2071863a160fb8020911899860b6cea97ea9fb48",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32b9b2f4_60307b54",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-27T11:41:20Z",
+      "side": 1,
+      "message": "Nevermind, you commonized it. Next time write the revert reason in the commit message.",
+      "parentUuid": "929a658a_421ae8a8",
+      "revId": "2071863a160fb8020911899860b6cea97ea9fb48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": [
