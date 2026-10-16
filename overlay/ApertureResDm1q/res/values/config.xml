@@ -15,6 +15,7 @@
           - "sd" (480p)
           - "hd" (720p)
           - "fhd" (1080p)
+          - "qhd" (1440p)
           - "uhd" (2160p)
          Valid values of frame rate are:
           - "24"
@@ -30,8 +31,8 @@
              </string-array>
     -->
     <string-array name="config_additionalVideoConfigurations">
-        <item>0</item>  <item>sd|hd|fhd|uhd</item>  <item>60</item>
-        <item>1</item>  <item>sd|hd|fhd|uhd</item>  <item>60</item>
+        <item>0</item>  <item>sd|hd|fhd|qhd|uhd</item>  <item>60</item>
+        <item>1</item>  <item>sd|hd|fhd|qhd|uhd</item>  <item>60</item>
     </string-array>
 
     <!-- An array of triplets made of (camera ID, approximate zoom ratio, exact zoom ratio).
